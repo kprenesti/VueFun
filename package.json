@@ -1,0 +1,25 @@
+{
+  "name": "vuefun",
+  "version": "1.0.0",
+  "description": "Just a few small projects to get a better handle on Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kprenesti/VueFun.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Krista Prenesti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kprenesti/VueFun/issues"
+  },
+  "homepage": "https://github.com/kprenesti/VueFun#readme",
+  "dependencies": {
+    "vue-router": "^3.0.2"
+  }
+}
